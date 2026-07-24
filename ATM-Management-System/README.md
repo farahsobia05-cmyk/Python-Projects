@@ -81,7 +81,7 @@ Through this project, I learned:
 
 ## 📸 Screenshots
 
-*(Screenshots will be added soon.)*
+*(Already uploded)*
 
 ---
 
