@@ -1,34 +1,3 @@
-"""
-==========================================================
-Project Name : ATM Management System (Version 1)
-
-Author : Farah Sobia
-
-Description:
-A menu-driven ATM Management System developed using Python.
-This project allows users to:
-- Check account balance
-- Deposit money
-- Withdraw money
-- Exit the system
-
-Concepts Used:
-- Variables
-- While Loop
-- If-Elif-Else
-- User Input
-- Arithmetic Operators
-- Program State
-- Menu-Driven Programming
-
-Difficulty:
-⭐⭐⭐☆☆ (Beginner)
-
-Date:
-July 2026
-==========================================================
-"""
-
 balance = 5000
 input_value = 0
 while input_value != 4:
